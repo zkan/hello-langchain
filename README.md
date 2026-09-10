@@ -1,2 +1,1 @@
-# hello-langchain
-Hello, LangChain
+# Hello, LangChain
